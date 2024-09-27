@@ -4,7 +4,7 @@
 
 Пример игровогго процесса:
 
-
+![Screenshot](https://github.com/Starbreaker84/OOAP-Game/blob/main/screenshot.png)
 
 Для запуска клонируем репозиторий.
 
